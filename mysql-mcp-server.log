@@ -1,0 +1,813 @@
+2026-05-19 14:18:58 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 63276 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-19 14:18:58 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-19 14:18:58 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-19 14:18:58 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-19 14:18:58 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-19 14:18:58 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-19 14:18:58 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-19 14:18:58 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-19 14:18:58 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-19 14:18:58 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.667 seconds (process running for 0.854)
+2026-05-19 14:18:59 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 63281 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-19 14:18:59 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-19 14:18:59 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-19 14:18:59 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-19 14:18:59 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-19 14:18:59 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-19 14:18:59 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-19 14:18:59 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-19 14:18:59 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-19 14:18:59 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.674 seconds (process running for 0.849)
+2026-05-19 14:19:00 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 63307 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-19 14:19:00 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-19 14:19:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-19 14:19:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-19 14:19:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-19 14:19:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-19 14:19:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-19 14:19:01 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-19 14:19:01 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-19 14:19:01 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.346 seconds (process running for 1.58)
+2026-05-19 14:46:17 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 64324 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-19 14:46:17 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-19 14:46:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-19 14:46:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-19 14:46:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-19 14:46:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-19 14:46:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-19 14:46:18 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-19 14:46:18 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-19 14:46:18 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.027 seconds (process running for 1.279)
+2026-05-19 18:07:15 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 65723 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-19 18:07:15 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-19 18:07:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-19 18:07:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-19 18:07:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-19 18:07:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-19 18:07:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-19 18:07:15 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-19 18:07:15 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-19 18:07:16 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.95 seconds (process running for 1.266)
+2026-05-20 21:42:39 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 31219 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-20 21:42:39 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-20 21:42:40 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-20 21:42:40 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-20 21:42:40 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-20 21:42:40 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-20 21:42:40 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-20 21:42:40 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-20 21:42:40 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-20 21:42:40 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.457 seconds (process running for 1.772)
+2026-05-20 21:42:41 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 31226 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-20 21:42:41 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-20 21:42:42 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-20 21:42:42 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-20 21:42:42 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-20 21:42:42 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-20 21:42:42 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-20 21:42:42 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-20 21:42:42 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-20 21:42:42 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.4 seconds (process running for 1.654)
+2026-05-20 21:42:43 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 31248 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-20 21:42:43 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-20 21:42:44 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-20 21:42:44 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-20 21:42:44 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-20 21:42:44 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-20 21:42:44 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-20 21:42:44 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-20 21:42:44 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-20 21:42:44 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.515 seconds (process running for 1.847)
+2026-05-20 23:51:47 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 32058 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-20 23:51:47 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-20 23:51:48 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-20 23:51:48 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-20 23:51:48 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-20 23:51:48 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-20 23:51:48 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-20 23:51:48 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-20 23:51:48 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-20 23:51:48 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.219 seconds (process running for 1.505)
+2026-05-20 23:51:49 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 32084 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-20 23:51:49 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-20 23:51:50 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-20 23:51:50 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-20 23:51:50 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-20 23:51:50 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-20 23:51:50 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-20 23:51:50 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-20 23:51:50 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-20 23:51:50 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.967 seconds (process running for 2.362)
+2026-05-20 23:51:52 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 32107 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-20 23:51:52 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-20 23:51:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-20 23:51:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-20 23:51:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-20 23:51:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-20 23:51:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-20 23:51:53 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-20 23:51:53 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-20 23:51:53 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.997 seconds (process running for 2.586)
+2026-05-20 23:52:05 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 32158 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-20 23:52:05 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-20 23:52:06 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-20 23:52:06 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-20 23:52:06 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-20 23:52:06 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-20 23:52:06 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-20 23:52:06 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-20 23:52:06 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-20 23:52:06 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.001 seconds (process running for 1.282)
+2026-05-21 00:07:02 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 32230 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 00:07:02 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 00:07:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 00:07:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 00:07:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 00:07:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 00:07:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 00:07:03 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 00:07:03 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 00:07:03 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.643 seconds (process running for 0.803)
+2026-05-21 00:07:03 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 32236 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 00:07:03 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 00:07:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 00:07:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 00:07:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 00:07:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 00:07:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 00:07:04 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 00:07:04 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 00:07:04 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.638 seconds (process running for 0.804)
+2026-05-21 00:07:04 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 32252 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 00:07:04 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 00:07:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 00:07:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 00:07:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 00:07:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 00:07:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 00:07:04 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 00:07:04 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 00:07:04 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.616 seconds (process running for 0.783)
+2026-05-21 00:22:17 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 32257 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 00:22:17 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 00:22:17 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 00:22:17 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 00:22:17 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 00:22:17 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 00:22:17 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 00:22:17 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 00:22:17 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 00:22:17 ERROR i.m.spec.McpServerSession - No handler registered for notification method: notifications/cancelled
+2026-05-21 00:22:17 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.657 seconds (process running for 0.991)
+2026-05-21 07:26:12 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 34021 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 07:26:12 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 07:26:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 07:26:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 07:26:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 07:26:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 07:26:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 07:26:12 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 07:26:12 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 07:26:12 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.022 seconds (process running for 1.272)
+2026-05-21 07:26:13 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 34045 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 07:26:13 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 07:26:14 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 07:26:14 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 07:26:14 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 07:26:14 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 07:26:14 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 07:26:14 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 07:26:14 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 07:26:14 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.992 seconds (process running for 1.25)
+2026-05-21 07:26:14 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 34063 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 07:26:14 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 07:26:26 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 07:26:26 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 07:26:26 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 07:26:26 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 07:26:26 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 07:26:26 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 07:26:26 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 07:26:26 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 12.238 seconds (process running for 1.593)
+2026-05-21 09:31:19 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 34976 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 09:31:19 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 09:31:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 09:31:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 09:31:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 09:31:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 09:31:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 09:31:20 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 09:31:20 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 09:31:20 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.779 seconds (process running for 0.977)
+2026-05-21 10:14:46 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 36370 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 10:14:46 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 10:14:46 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 10:14:46 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 10:14:46 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 10:14:46 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 10:14:46 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 10:14:46 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 10:14:46 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 10:14:46 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.971 seconds (process running for 1.198)
+2026-05-21 11:06:22 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 37690 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 11:06:22 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 11:06:23 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 11:06:23 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 11:06:23 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 11:06:23 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 11:06:23 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 11:06:23 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 11:06:23 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 11:06:23 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.235 seconds (process running for 1.505)
+2026-05-21 11:49:59 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 38959 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 11:49:59 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 11:50:00 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 11:50:00 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 11:50:00 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 11:50:00 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 11:50:00 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 11:50:00 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 11:50:00 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 11:50:00 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.035 seconds (process running for 1.282)
+2026-05-21 12:35:12 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 40001 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 12:35:12 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 12:35:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 12:35:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 12:35:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 12:35:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 12:35:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 12:35:13 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 12:35:13 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 12:35:13 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.071 seconds (process running for 1.33)
+2026-05-21 13:16:37 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 41104 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 13:16:37 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 13:16:38 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 13:16:38 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 13:16:38 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 13:16:38 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 13:16:38 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 13:16:38 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 13:16:38 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 13:16:38 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.991 seconds (process running for 1.259)
+2026-05-21 14:12:18 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 42385 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 14:12:18 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 14:12:19 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 14:12:19 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 14:12:19 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 14:12:19 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 14:12:19 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 14:12:19 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 14:12:19 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 14:12:19 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.012 seconds (process running for 1.25)
+2026-05-21 22:32:08 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 45541 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-21 22:32:08 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-21 22:32:09 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-21 22:32:09 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-21 22:32:09 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-21 22:32:09 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-21 22:32:09 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-21 22:32:09 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-21 22:32:09 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-21 22:32:09 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.529 seconds (process running for 1.907)
+2026-05-22 01:14:29 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 46235 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 01:14:29 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 01:14:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 01:14:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 01:14:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 01:14:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 01:14:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 01:14:29 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 01:14:29 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 01:14:29 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.993 seconds (process running for 1.242)
+2026-05-22 06:02:41 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 47570 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 06:02:41 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 06:02:41 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 06:02:42 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 06:02:42 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 06:02:42 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 06:02:42 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 06:02:42 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 06:02:42 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 06:02:42 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.068 seconds (process running for 1.366)
+2026-05-22 06:02:42 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 47593 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 06:02:42 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 06:02:43 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 06:02:43 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 06:02:43 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 06:02:43 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 06:02:43 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 06:02:43 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 06:02:43 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 06:02:43 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.37 seconds (process running for 1.663)
+2026-05-22 06:02:44 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 47608 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 06:02:44 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 06:02:45 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 06:02:45 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 06:02:45 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 06:02:45 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 06:02:45 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 06:02:45 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 06:02:45 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 06:02:45 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.689 seconds (process running for 2.061)
+2026-05-22 07:24:48 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 48042 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 07:24:48 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 07:24:52 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 07:24:52 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 07:24:52 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 07:24:52 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 07:24:52 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 07:24:52 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 07:24:52 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 07:24:53 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 5.285 seconds (process running for 5.559)
+2026-05-22 10:51:06 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 49313 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 10:51:06 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 10:51:07 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 10:51:07 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 10:51:07 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 10:51:07 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 10:51:07 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 10:51:07 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 10:51:07 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 10:51:07 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.327 seconds (process running for 1.628)
+2026-05-22 11:43:05 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 50179 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 11:43:05 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 11:43:06 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 11:43:06 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 11:43:06 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 11:43:06 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 11:43:06 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 11:43:06 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 11:43:06 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 11:43:06 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.001 seconds (process running for 1.305)
+2026-05-22 12:23:36 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 51569 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 12:23:36 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 12:23:37 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 12:23:37 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 12:23:37 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 12:23:37 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 12:23:37 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 12:23:37 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 12:23:37 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 12:23:37 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.029 seconds (process running for 1.282)
+2026-05-22 13:10:26 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 52403 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 13:10:26 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 13:10:27 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 13:10:27 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 13:10:27 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 13:10:27 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 13:10:27 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 13:10:27 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 13:10:27 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 13:10:27 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.972 seconds (process running for 1.242)
+2026-05-22 13:53:31 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 53562 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 13:53:31 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 13:53:32 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 13:53:32 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 13:53:32 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 13:53:32 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 13:53:32 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 13:53:32 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 13:53:32 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 13:53:32 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.988 seconds (process running for 1.275)
+2026-05-22 14:37:19 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 54777 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 14:37:19 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 14:37:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 14:37:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 14:37:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 14:37:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 14:37:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 14:37:20 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 14:37:20 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 14:37:20 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.977 seconds (process running for 1.248)
+2026-05-22 15:20:31 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 56055 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 15:20:31 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 15:20:31 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 15:20:31 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 15:20:31 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 15:20:31 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 15:20:31 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 15:20:31 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 15:20:31 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 15:20:31 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.992 seconds (process running for 1.267)
+2026-05-22 16:05:50 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 57245 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 16:05:50 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 16:05:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 16:05:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 16:05:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 16:05:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 16:05:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 16:05:51 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 16:05:51 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 16:05:51 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.004 seconds (process running for 1.286)
+2026-05-22 19:25:14 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 58197 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 19:25:14 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 19:25:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 19:25:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 19:25:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 19:25:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 19:25:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 19:25:15 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 19:25:15 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 19:25:15 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.078 seconds (process running for 1.384)
+2026-05-22 20:08:49 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 59514 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 20:08:49 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 20:08:49 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 20:08:49 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 20:08:49 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 20:08:49 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 20:08:49 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 20:08:49 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 20:08:49 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 20:08:50 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.033 seconds (process running for 1.295)
+2026-05-22 21:17:11 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 60194 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 21:17:11 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 21:17:11 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 21:17:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 21:17:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 21:17:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 21:17:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 21:17:12 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 21:17:12 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 21:17:12 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.06 seconds (process running for 1.343)
+2026-05-22 21:59:00 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 61622 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-22 21:59:00 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-22 21:59:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-22 21:59:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-22 21:59:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-22 21:59:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-22 21:59:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-22 21:59:01 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-22 21:59:01 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-22 21:59:01 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.042 seconds (process running for 1.299)
+2026-05-23 01:37:15 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 62899 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-23 01:37:15 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-23 01:37:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-23 01:37:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-23 01:37:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-23 01:37:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-23 01:37:15 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-23 01:37:15 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-23 01:37:15 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-23 01:37:15 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.951 seconds (process running for 1.221)
+2026-05-23 01:37:16 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 62910 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-23 01:37:16 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-23 01:37:16 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-23 01:37:16 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-23 01:37:16 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-23 01:37:16 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-23 01:37:16 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-23 01:37:16 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-23 01:37:16 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-23 01:37:16 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.673 seconds (process running for 0.856)
+2026-05-23 03:01:39 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 63327 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-23 03:01:39 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-23 03:01:46 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-23 03:01:46 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-23 03:01:46 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-23 03:01:46 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-23 03:01:46 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-23 03:01:46 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-23 03:01:46 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-23 03:01:46 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 7.802 seconds (process running for 8.068)
+2026-05-23 07:39:07 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 64563 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-23 07:39:07 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-23 07:39:08 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-23 07:39:08 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-23 07:39:08 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-23 07:39:08 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-23 07:39:08 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-23 07:39:08 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-23 07:39:08 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-23 07:39:08 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.013 seconds (process running for 1.254)
+2026-05-23 09:25:02 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 65061 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-23 09:25:02 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-23 09:39:55 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-23 09:39:55 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-23 09:39:55 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-23 09:39:55 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-23 09:39:55 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-23 09:39:56 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-23 09:39:56 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-23 09:39:56 ERROR i.m.spec.McpServerSession - No handler registered for notification method: notifications/cancelled
+2026-05-23 09:39:56 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 893.515 seconds (process running for 1.539)
+2026-05-23 13:08:13 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 65964 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-23 13:08:13 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-23 13:08:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-23 13:08:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-23 13:08:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-23 13:08:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-23 13:08:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-23 13:08:13 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-23 13:08:13 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-23 13:08:13 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.023 seconds (process running for 1.292)
+2026-05-23 15:01:24 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 66414 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-23 15:01:24 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-23 15:01:25 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-23 15:01:25 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-23 15:01:25 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-23 15:01:25 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-23 15:01:25 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-23 15:01:25 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-23 15:01:25 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-23 15:01:25 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.029 seconds (process running for 1.265)
+2026-05-23 18:12:55 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 67187 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-23 18:12:55 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-23 18:13:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-23 18:13:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-23 18:13:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-23 18:13:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-23 18:13:01 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-23 18:13:02 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-23 18:13:02 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-23 18:13:03 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 8.465 seconds (process running for 8.792)
+2026-05-23 18:53:50 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 68222 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-23 18:53:50 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-23 18:53:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-23 18:53:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-23 18:53:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-23 18:53:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-23 18:53:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-23 18:53:51 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-23 18:53:51 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-23 18:53:51 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.073 seconds (process running for 1.329)
+2026-05-23 19:36:47 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 69256 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-23 19:36:47 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-23 19:36:48 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-23 19:36:48 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-23 19:36:48 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-23 19:36:48 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-23 19:36:48 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-23 19:36:48 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-23 19:36:48 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-23 19:36:48 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.06 seconds (process running for 1.315)
+2026-05-23 21:56:44 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 70036 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-23 21:56:44 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-23 21:56:44 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-23 21:56:44 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-23 21:56:44 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-23 21:56:44 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-23 21:56:44 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-23 21:56:44 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-23 21:56:44 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-23 21:56:45 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.189 seconds (process running for 1.591)
+2026-05-23 22:57:50 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 70282 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-23 22:57:50 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-23 22:57:55 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-23 22:57:55 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-23 22:57:55 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-23 22:57:55 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-23 22:57:55 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-23 22:57:55 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-23 22:57:55 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-23 22:57:55 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 6.237 seconds (process running for 6.626)
+2026-05-24 02:15:49 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 71194 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 02:15:49 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 02:15:50 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 02:15:50 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 02:15:50 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 02:15:50 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 02:15:50 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 02:15:50 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 02:15:50 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 02:15:50 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.225 seconds (process running for 1.508)
+2026-05-24 04:15:53 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 71725 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 04:15:53 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 04:15:59 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 04:16:00 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 04:16:00 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 04:16:00 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 04:16:00 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 04:16:00 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 04:16:00 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 04:16:01 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 8.552 seconds (process running for 8.862)
+2026-05-24 04:16:02 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 71756 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 04:16:02 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 04:16:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 04:16:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 04:16:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 04:16:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 04:16:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 04:16:04 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 04:16:04 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 04:16:04 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.548 seconds (process running for 2.424)
+2026-05-24 04:16:05 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 71783 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 04:16:05 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 04:32:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 04:32:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 04:32:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 04:32:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 04:32:04 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 04:32:04 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 04:32:04 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 04:32:04 ERROR i.m.spec.McpServerSession - No handler registered for notification method: notifications/cancelled
+2026-05-24 04:32:05 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 960.492 seconds (process running for 2.262)
+2026-05-24 06:46:53 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 72474 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 06:46:53 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 06:46:54 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 06:46:54 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 06:46:54 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 06:46:54 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 06:46:54 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 06:46:54 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 06:46:54 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 06:46:54 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.069 seconds (process running for 1.327)
+2026-05-24 09:37:24 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 73249 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 09:37:24 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 09:37:28 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 09:37:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 09:37:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 09:37:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 09:37:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 09:37:29 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 09:37:29 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 09:37:29 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 5.668 seconds (process running for 5.975)
+2026-05-24 09:48:27 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 73285 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 09:48:27 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 09:48:29 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 73309 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 09:48:29 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 09:48:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 09:48:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 09:48:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 09:48:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 09:48:29 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 09:48:29 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 09:48:29 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 09:48:29 ERROR i.m.spec.McpServerSession - No handler registered for notification method: notifications/cancelled
+2026-05-24 09:48:30 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 09:48:30 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 09:48:30 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 09:48:30 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 09:48:30 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 09:48:30 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 09:48:30 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 09:48:30 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 2.313 seconds (process running for 3.121)
+2026-05-24 11:50:51 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 73911 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 11:50:51 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 11:50:52 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 11:50:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 11:50:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 11:50:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 11:50:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 11:50:53 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 11:50:53 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 11:50:53 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 2.252 seconds (process running for 2.628)
+2026-05-24 14:53:39 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 74778 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 14:53:39 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 14:53:40 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 14:53:40 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 14:53:40 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 14:53:40 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 14:53:40 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 14:53:40 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 14:53:40 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 14:53:40 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.421 seconds (process running for 1.7)
+2026-05-24 16:55:29 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 75270 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 16:55:29 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 16:55:30 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 16:55:30 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 16:55:30 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 16:55:30 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 16:55:30 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 16:55:30 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 16:55:30 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 16:55:30 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.238 seconds (process running for 1.504)
+2026-05-24 19:30:17 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 76178 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 19:30:17 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 19:30:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 19:30:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 19:30:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 19:30:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 19:30:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 19:30:18 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 19:30:18 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 19:30:18 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.032 seconds (process running for 1.277)
+2026-05-24 19:30:18 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 76199 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 19:30:18 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 19:30:19 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 19:30:19 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 19:30:19 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 19:30:19 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 19:30:19 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 19:30:19 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 19:30:19 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 19:30:19 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.997 seconds (process running for 1.296)
+2026-05-24 19:30:20 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 76223 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 19:30:20 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 19:30:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 19:30:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 19:30:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 19:30:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 19:30:20 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 19:30:21 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 19:30:21 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 19:30:21 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.017 seconds (process running for 1.295)
+2026-05-24 20:59:50 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 76660 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 20:59:50 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 20:59:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 20:59:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 20:59:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 20:59:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 20:59:51 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 20:59:51 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 20:59:51 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 20:59:51 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 0.659 seconds (process running for 0.838)
+2026-05-24 23:40:12 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 77392 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-24 23:40:12 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-24 23:40:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-24 23:40:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-24 23:40:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-24 23:40:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-24 23:40:13 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-24 23:40:13 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-24 23:40:13 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-24 23:40:13 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.241 seconds (process running for 1.48)
+2026-05-25 03:17:42 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 78275 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-25 03:17:42 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-25 03:17:43 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-25 03:17:43 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-25 03:17:43 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-25 03:17:43 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-25 03:17:43 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-25 03:17:43 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-25 03:17:43 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-25 03:17:43 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.038 seconds (process running for 1.342)
+2026-05-25 07:10:16 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 79361 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-25 07:10:16 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-25 07:10:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-25 07:10:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-25 07:10:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-25 07:10:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-25 07:10:18 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-25 07:10:18 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-25 07:10:18 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-25 07:10:19 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 2.504 seconds (process running for 2.917)
+2026-05-25 07:10:23 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 79401 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-25 07:10:23 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-25 07:10:30 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-25 07:10:31 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-25 07:10:31 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-25 07:10:31 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-25 07:10:31 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-25 07:10:32 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-25 07:10:32 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-25 07:10:33 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 10.786 seconds (process running for 13.619)
+2026-05-25 07:10:36 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 79441 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-25 07:10:36 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-25 07:10:37 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-25 07:10:37 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-25 07:10:37 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-25 07:10:37 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-25 07:10:37 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-25 07:10:37 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-25 07:10:37 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-25 07:10:37 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 2.737 seconds (process running for 4.235)
+2026-05-25 08:31:52 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 80002 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-25 08:31:52 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-25 08:31:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-25 08:31:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-25 08:31:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-25 08:31:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-25 08:31:53 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-25 08:31:53 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-25 08:31:53 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-25 08:31:53 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.004 seconds (process running for 1.289)
+2026-05-25 10:50:22 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 80602 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-25 10:50:22 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-25 10:50:23 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-25 10:50:23 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-25 10:50:23 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-25 10:50:23 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-25 10:50:23 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-25 10:50:23 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-25 10:50:23 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-25 10:50:23 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.039 seconds (process running for 1.254)
+2026-05-25 11:33:11 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 81606 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-25 11:33:11 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-25 11:33:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-25 11:33:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-25 11:33:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-25 11:33:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-25 11:33:12 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-25 11:33:12 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-25 11:33:12 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-25 11:33:12 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.012 seconds (process running for 1.286)
+2026-05-25 12:05:03 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 82468 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-25 12:05:03 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-25 12:05:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-25 12:05:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-25 12:05:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-25 12:05:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-25 12:05:03 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-25 12:05:03 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-25 12:05:03 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-25 12:05:04 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.252 seconds (process running for 1.577)
+2026-05-25 12:14:41 INFO  c.c.m.McpServerApplication - Starting McpServerApplication v1.0-SNAPSHOT using Java 21.0.10 with PID 82802 (/Users/vivekpandey/Documents/Project/twdc/Mysql_mcp_server/target/mysql-mcp-server-1.0-SNAPSHOT.jar started by vivekpandey in /Users/vivekpandey/Documents/Project/twdc/Spring-ai-ollma-local-model)
+2026-05-25 12:14:41 INFO  c.c.m.McpServerApplication - The following 1 profile is active: "mcp"
+2026-05-25 12:14:41 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable tools capabilities, notification: true
+2026-05-25 12:14:41 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Registered tools: 5
+2026-05-25 12:14:41 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable resources capabilities, notification: true
+2026-05-25 12:14:41 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable prompts capabilities, notification: true
+2026-05-25 12:14:41 INFO  o.s.a.m.s.a.McpServerAutoConfiguration - Enable completions capabilities
+2026-05-25 12:14:42 INFO  i.m.server.McpAsyncServer - Client initialize request - Protocol: 2025-11-25, Capabilities: ClientCapabilities[experimental=null, roots=null, sampling=null], Info: Implementation[name=q-chat-plugin, version=1.0.0]
+2026-05-25 12:14:42 WARN  i.m.server.McpAsyncServer - Client requested unsupported protocol version: 2025-11-25, so the server will suggest the 2024-11-05 version instead
+2026-05-25 12:14:42 INFO  c.c.m.McpServerApplication - Started McpServerApplication in 1.21 seconds (process running for 1.441)

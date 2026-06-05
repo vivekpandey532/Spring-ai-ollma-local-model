@@ -8,8 +8,8 @@ public class OllmaService {
 
     private final ChatClient chatClient;
 
-    public OllmaService(ChatClient.Builder chatClientBuilder) {
-        this.chatClient = chatClientBuilder.build();
+    public OllmaService(ChatClient chatClient) {
+        this.chatClient = chatClient;
     }
 
     public String ask(String question) {

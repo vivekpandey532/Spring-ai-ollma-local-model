@@ -4,4 +4,17 @@ spring:
       base-url: http://localhost:11434
       chat:
         options:
-          model: java-qa
+          model: mistral
+logging:
+  level:
+    org.springframework.ai: DEBUG
+    org.springframework.ai.chat: DEBUG
+    org.springframework.ai.ollama: DEBUG
+    org.springframework.web.client: DEBUG
+    org.springframework.http: DEBUG
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,env,configprops

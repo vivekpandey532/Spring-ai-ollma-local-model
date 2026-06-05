@@ -3,50 +3,264 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ollama Chat</title>
+    <title>AI Chat - Ollama & Knowledge Base</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #1a1a2e; color: #eee; height: 100vh; display: flex; flex-direction: column; }
-        .header { padding: 16px; text-align: center; background: #16213e; border-bottom: 1px solid #0f3460; }
-        .chat-container { flex: 1; overflow-y: auto; padding: 20px; display: flex; flex-direction: column; gap: 12px; }
-        .message { max-width: 75%; padding: 12px 16px; border-radius: 12px; line-height: 1.5; white-space: pre-wrap; }
-        .user-msg { align-self: flex-end; background: #0f3460; }
-        .bot-msg { align-self: flex-start; background: #2a2a4a; }
-        .input-area { display: flex; padding: 16px; gap: 10px; background: #16213e; border-top: 1px solid #0f3460; }
-        #questionInput { flex: 1; padding: 12px; border-radius: 8px; border: 1px solid #0f3460; background: #1a1a2e; color: #eee; font-size: 16px; outline: none; }
-        #questionInput:focus { border-color: #e94560; }
-        #sendBtn { padding: 12px 24px; border-radius: 8px; border: none; background: #e94560; color: #fff; font-size: 16px; cursor: pointer; }
-        #sendBtn:disabled { opacity: 0.5; cursor: not-allowed; }
-        .typing { opacity: 0.6; font-style: italic; }
-        pre { background: #111; border-radius: 8px; padding: 12px; overflow-x: auto; margin: 8px 0; }
-        pre code { font-family: 'Courier New', monospace; font-size: 14px; color: #0f0; }
-        code.inline { background: #111; padding: 2px 6px; border-radius: 4px; font-family: 'Courier New', monospace; font-size: 14px; color: #0f0; }
+        .header {
+            padding: 16px;
+            background: #16213e;
+            border-bottom: 1px solid #0f3460;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .header h2 { flex: 1; text-align: center; }
+
+        .api-selector {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            background: #0f3460;
+            padding: 8px 16px;
+            border-radius: 8px;
+        }
+
+        .api-label { font-size: 14px; font-weight: 500; }
+
+        .toggle-switch {
+            position: relative;
+            width: 60px;
+            height: 30px;
+            background: #444;
+            border-radius: 15px;
+            cursor: pointer;
+            transition: background 0.3s;
+            border: 2px solid #666;
+        }
+
+        .toggle-switch.active {
+            background: #e94560;
+            border-color: #ff6b7a;
+        }
+
+        .toggle-slider {
+            position: absolute;
+            top: 2px;
+            left: 2px;
+            width: 24px;
+            height: 24px;
+            background: white;
+            border-radius: 50%;
+            transition: left 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+            font-weight: bold;
+            color: #1a1a2e;
+        }
+
+        .toggle-switch.active .toggle-slider {
+            left: 32px;
+        }
+
+        .api-display {
+            min-width: 120px;
+            text-align: right;
+            font-size: 14px;
+        }
+
+        .api-display .current-api {
+            font-weight: bold;
+            color: #4ade80;
+        }
+
+        .chat-container {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .message {
+            max-width: 75%;
+            padding: 12px 16px;
+            border-radius: 12px;
+            line-height: 1.5;
+            white-space: pre-wrap;
+        }
+
+        .message-header {
+            font-size: 12px;
+            opacity: 0.7;
+            margin-bottom: 4px;
+        }
+
+        .user-msg {
+            align-self: flex-end;
+            background: #0f3460;
+        }
+
+        .bot-msg {
+            align-self: flex-start;
+            background: #2a2a4a;
+        }
+
+        .input-area {
+            display: flex;
+            padding: 16px;
+            gap: 10px;
+            background: #16213e;
+            border-top: 1px solid #0f3460;
+        }
+
+        #questionInput {
+            flex: 1;
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px solid #0f3460;
+            background: #1a1a2e;
+            color: #eee;
+            font-size: 16px;
+            outline: none;
+        }
+
+        #questionInput:focus {
+            border-color: #e94560;
+        }
+
+        #sendBtn {
+            padding: 12px 24px;
+            border-radius: 8px;
+            border: none;
+            background: #e94560;
+            color: #fff;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        #sendBtn:hover {
+            background: #ff6b7a;
+        }
+
+        #sendBtn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .typing {
+            opacity: 0.6;
+            font-style: italic;
+        }
+
+        pre {
+            background: #111;
+            border-radius: 8px;
+            padding: 12px;
+            overflow-x: auto;
+            margin: 8px 0;
+        }
+
+        pre code {
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            color: #0f0;
+        }
+
+        code.inline {
+            background: #111;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            color: #0f0;
+        }
     </style>
 </head>
 <body>
-    <div class="header"><h2>Ollama Chat</h2></div>
+    <div class="header">
+        <h2>AI Chat Assistant</h2>
+        <div class="api-selector">
+            <span class="api-label">API:</span>
+            <div class="toggle-switch" id="apiToggle" onclick="toggleAPI()">
+                <div class="toggle-slider">🤖</div>
+            </div>
+            <div class="api-display">
+                <div>Ollama</div>
+                <div class="current-api" id="currentApiDisplay">Ollama</div>
+            </div>
+        </div>
+    </div>
+
     <div class="chat-container" id="chat"></div>
+
     <div class="input-area">
         <input type="text" id="questionInput" placeholder="Ask a question..." autofocus>
         <button id="sendBtn" onclick="send()">Send</button>
     </div>
+
     <script>
         const chat = document.getElementById('chat');
         const input = document.getElementById('questionInput');
         const btn = document.getElementById('sendBtn');
+        const apiToggle = document.getElementById('apiToggle');
+        const currentApiDisplay = document.getElementById('currentApiDisplay');
+
+        let currentAPI = 'ollama';
+
+        const apiEndpoints = {
+            'ollama': '/ask',
+            'knowledgebase': '/java-assistant'
+        };
+
+        const apiLabels = {
+            'ollama': 'Ollama',
+            'knowledgebase': 'Knowledge Base'
+        };
+
+        window.addEventListener('load', () => {
+            const savedAPI = localStorage.getItem('selectedAPI') || 'ollama';
+            setAPI(savedAPI);
+        });
+
+        function toggleAPI() {
+            const newAPI = currentAPI === 'ollama' ? 'knowledgebase' : 'ollama';
+            setAPI(newAPI);
+        }
+
+        function setAPI(apiType) {
+            currentAPI = apiType;
+            apiToggle.classList.toggle('active', apiType === 'knowledgebase');
+            currentApiDisplay.textContent = apiLabels[apiType];
+            localStorage.setItem('selectedAPI', apiType);
+            addMessage(`🔄 Switched to <strong>${apiLabels[apiType]}</strong> API`, 'bot-msg');
+        }
 
         input.addEventListener('keydown', e => { if (e.key === 'Enter') send(); });
 
         async function send() {
             const question = input.value.trim();
             if (!question) return;
-            addMessage(question, 'user-msg');
+
+            addMessage(`[${apiLabels[currentAPI]}] ${question}`, 'user-msg');
             input.value = '';
             btn.disabled = true;
 
             const typing = addMessage('Thinking...', 'bot-msg typing');
             try {
-                const res = await fetch('/ask?question=' + encodeURIComponent(question));
+                const endpoint = apiEndpoints[currentAPI];
+                const res = await fetch(endpoint + '?question=' + encodeURIComponent(question), {
+                    method: 'GET'
+                });
+
+                if (!res.ok) {
+                    throw new Error(`HTTP error! status: ${res.status}`);
+                }
+
                 typing.innerHTML = formatMessage(await res.text());
                 typing.classList.remove('typing');
             } catch (e) {
@@ -68,13 +282,10 @@
         }
 
         function formatMessage(text) {
-            // Replace ```lang...``` code blocks
             text = text.replace(/```(\w*)\n([\s\S]*?)```/g, '<pre><code class="lang-$1">$2</code></pre>');
-            // Replace inline `code`
             text = text.replace(/`([^`]+)`/g, '<code class="inline">$1</code>');
-            // Preserve newlines outside of pre blocks
+            text = text.replace(/<strong>/g, '<strong>').replace(/<\/strong>/g, '</strong>');
             text = text.replace(/\n/g, '<br>');
-            // Clean up <br> inside <pre>
             text = text.replace(/<pre><code([^>]*)>(.*?)<\/code><\/pre>/gs, (m, cls, code) => {
                 return '<pre><code' + cls + '>' + code.replace(/<br>/g, '\n') + '</code></pre>';
             });

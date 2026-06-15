@@ -1,13 +1,11 @@
 package com.ollma.model.controller;
 
+import com.ollma.model.DTOs.ModelAnswer;
 import com.ollma.model.service.KnowledgeBaseService;
 import com.ollma.model.service.OllmaService;
-import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import reactor.core.publisher.Flux;
 
 @RestController
 public class OllmaController {
@@ -36,7 +34,7 @@ public class OllmaController {
      * @return Answer to the user
      */
     @GetMapping("/java-assistant")
-    public String askJavaAssistant(@RequestParam String question) {
+    public ModelAnswer askJavaAssistant(@RequestParam String question) {
         return knowledgeBaseService.ask(question);
     }
 

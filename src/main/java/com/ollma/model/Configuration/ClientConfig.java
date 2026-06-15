@@ -3,8 +3,8 @@ package com.ollma.model.Configuration;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.MessageChatMemoryAdvisor;
 import org.springframework.ai.chat.memory.ChatMemory;
-import org.springframework.ai.chat.memory.InMemoryChatMemoryRepository;
 import org.springframework.ai.chat.model.ChatModel;
+import org.springframework.ai.ollama.api.OllamaChatOptions;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
@@ -16,5 +16,10 @@ public class ClientConfig {
         return ChatClient.builder(chatModel).
                 defaultAdvisors(advisorSpec -> MessageChatMemoryAdvisor
                 .builder(chatMemory)).build();
+    }
+
+    @Bean
+    public OllamaChatOptions advisorSpec() {
+       return new OllamaChatOptions.Builder().temperature(0.5).build();
     }
 }

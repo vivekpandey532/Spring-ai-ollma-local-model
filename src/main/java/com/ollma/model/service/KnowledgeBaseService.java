@@ -1,15 +1,13 @@
 package com.ollma.model.service;
 
+import com.ollma.model.DTOs.ModelAnswer;
 import org.springframework.ai.chat.client.ChatClient;
-import org.springframework.ai.chat.model.ChatResponse;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.Resource;
-import org.springframework.http.codec.ServerSentEvent;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 
 import java.time.Duration;
-import java.util.Objects;
 
 @Service
 public class KnowledgeBaseService {
@@ -23,14 +21,14 @@ public class KnowledgeBaseService {
         this.chatClient = chatClient;
     }
 
-    public String ask(String question) {
-        ChatResponse chatResponse = chatClient.prompt()
+    public ModelAnswer ask(String question) {
+        ModelAnswer response = chatClient.prompt()
                 .system(spec -> spec.text(javaPrompt))
                 .user(question)
                 .call()
-                .chatResponse();
-        System.out.println("Response from model: " + chatResponse);
-        return Objects.requireNonNull(Objects.requireNonNull(chatResponse).getResult()).getOutput().getText();
+                .entity(ModelAnswer.class);
+        System.out.println("Response from model: " + response);
+        return response;
     }
 
     public Flux<String> askStream(String question) {

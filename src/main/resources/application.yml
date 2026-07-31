@@ -1,10 +1,23 @@
 spring:
+  servlet:
+    multipart:
+      max-file-size: 30MB
+      max-request-size: 30MB
+  datasource:
+    url: jdbc:postgresql://localhost:5432/ai
+    username: postgres
+    password: 123
   ai:
+    vectorstore:
+      pgvector:
+        initialize-schema: true
     ollama:
       base-url: http://localhost:11434
       chat:
         options:
           model: mistral
+      embedding:
+        model: nomic-embed-text
 logging:
   level:
     org.springframework.ai: DEBUG

@@ -1,6 +1,5 @@
 package com.ollma.model.service;
 
-import com.ollma.model.DTOs.ModelAnswer;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.Resource;
@@ -16,17 +15,20 @@ public class KnowledgeBaseService {
     private Resource javaPrompt;
 
     private final ChatClient chatClient;
+    private final PdfIngestionService ingestionService;
 
-    public KnowledgeBaseService(ChatClient chatClient) {
+    public KnowledgeBaseService(ChatClient chatClient, PdfIngestionService pdfIngestionService) {
         this.chatClient = chatClient;
+        this.ingestionService = pdfIngestionService;
     }
 
-    public ModelAnswer ask(String question) {
-        ModelAnswer response = chatClient.prompt()
+    public String ask(String question) {
+        String questionSimilarSearchResult = ingestionService.search(question);
+         String response = chatClient.prompt()
                 .system(spec -> spec.text(javaPrompt))
-                .user(question)
+                .user(questionSimilarSearchResult)
                 .call()
-                .entity(ModelAnswer.class);
+                .content();
         System.out.println("Response from model: " + response);
         return response;
     }
